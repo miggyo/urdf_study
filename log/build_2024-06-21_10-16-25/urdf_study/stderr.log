@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/min/dev_ws/urdf_study/src/urdf_study/launch": No such file or
+  directory.
+
+[0m
